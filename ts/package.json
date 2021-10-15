@@ -1,0 +1,18 @@
+{
+  "name": "gorila-http-example-ts",
+  "version": "1.0.0",
+  "main": "dist/main.js",
+  "scripts": {
+    "start": "node .",
+    "build": "tsc"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "gorila-core": "^1.0.1",
+    "gorila-http": "^1.0.0",
+    "tslib": "^2.3.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}

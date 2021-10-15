@@ -1,0 +1,15 @@
+{
+  "name": "gorila-http-example-js",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gorila-core": "^1.0.1",
+    "gorila-http": "^1.0.0"
+  }
+}
